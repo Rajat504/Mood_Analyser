@@ -1,0 +1,3 @@
+C:\Users\rajat\source\repos\Mood Analyser\obj\Debug\netcoreapp3.1\Mood Analyser.csprojAssemblyReference.cache
+C:\Users\rajat\source\repos\Mood Analyser\obj\Debug\netcoreapp3.1\Mood Analyser.AssemblyInfoInputs.cache
+C:\Users\rajat\source\repos\Mood Analyser\obj\Debug\netcoreapp3.1\Mood Analyser.AssemblyInfo.cs
